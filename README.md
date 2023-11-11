@@ -26,5 +26,3 @@ Feel free to explore, modify, and experiment with the code to enhance your under
 
 ### Example output
 ![example-1](3.png)
-![example-2](3.1.png)
-![example-3](3.2.png)
