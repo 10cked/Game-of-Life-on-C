@@ -24,4 +24,7 @@ Feel free to explore, modify, and experiment with the code to enhance your under
 
 **Note:** Ensure your terminal supports ANSI escape codes for proper visualization. The `usleep` function introduces a delay between generations, providing a visually appealing animation.
 
-*Happy coding!*
+### Example output
+![example-1](3.png)
+![example-2](3.1.png)
+![example-3](3.2.png)
